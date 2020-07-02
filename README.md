@@ -10,18 +10,23 @@ This is a fully responsive developer portfolio, designed and developed as part o
 
 ## Sections 📂
 
-- Tools
+- About
+- My Skill Set
 - Projects
-- Contact
 
 
 ## Tech Stack 👨🏻‍💻
 - HTML
 - CSS
-- JS
+- JavaScript
+- TypeScript
+- Ionic
+- Angular
+- React
+- Flutter
 
 ## Visit 🌐
-You can view the website here : [Website](https://aromal.netlify.app/)
+You can view the website here : [Website](https://abhiramkadiri.github.io/Resume)
 
 
 ## License 📜
@@ -29,7 +34,7 @@ You can view the website here : [Website](https://aromal.netlify.app/)
 ```
 MIT License
 
-Copyright (c) 2020 Aromal Anil
+Copyright (c) 2020 Abhiram Kadiri
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
