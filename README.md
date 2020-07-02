@@ -5,7 +5,7 @@
 
 
 ## About ℹ
-This is a fully responsive developer portfolio, designed and developed as part of FreeCodeCamp Curriculum
+This is a fully responsive developer portfolio, designed and developed by me
 
 
 ## Sections 📂
@@ -13,6 +13,9 @@ This is a fully responsive developer portfolio, designed and developed as part o
 - About
 - My Skill Set
 - Projects
+- Resume
+- Certifications
+- Contact
 
 
 ## Tech Stack 👨🏻‍💻
